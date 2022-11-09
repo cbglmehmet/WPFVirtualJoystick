@@ -1,1 +1,1 @@
-![](https://github.com/WPFVirtualJoystick/joystick.gif)
+<img src="/cbglmehmet/WPFVirtualJoystick/blob/main/joystick.gif?raw=true" alt="joystick.gif">
