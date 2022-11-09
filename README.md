@@ -1,1 +1,1 @@
-<img src="/cbglmehmet/WPFVirtualJoystick/blob/main/joystick.gif?raw=true" alt="joystick.gif">
+<img src="https://github.com/cbglmehmet/WPFVirtualJoystick/WPFVirtualJoystick/blob/main/joystick.gif" alt="joystick.gif">
